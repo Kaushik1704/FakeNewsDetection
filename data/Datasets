@@ -1,0 +1,9 @@
+# Data Folder
+
+This folder contains the datasets for the Fake News Detection project.
+
+- `True.csv`: Real news articles.
+- `Fake.csv`: Fake news articles.
+- `manual_testing.csv`: Used for additional evaluation.
+
+**Note**: Please download the datasets from (https://drive.google.com/drive/folders/1pfShmHPgUwxW3UMyFP-poABHfavh5B42?usp=sharing).
